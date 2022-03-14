@@ -9,8 +9,8 @@
   "batch_size": 64,
   "target_update_freq": 1000,
   "frame_skipping": 4,
-  "max_episode_length": 200,
-  "n_episodes": 200,
-  "first_layer_size": 24,
-  "second_layer_size": 30
+  "max_episode_length": 600,
+  "n_episodes": 600,
+  "first_layer_size": 256,
+  "second_layer_size": 256
 }
