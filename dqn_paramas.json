@@ -1,0 +1,16 @@
+{
+  "bins_per_coord": 5,
+  "buffer_size": 10000,
+  "gamma": 0.95,
+  "learning_rate": 0.0001,
+  "epsilon_max": 1.0,
+  "epsilon_min": 0.1,
+  "epsilon_decay": 0.995,
+  "batch_size": 64,
+  "target_update_freq": 1000,
+  "frame_skipping": 4,
+  "max_episode_length": 200,
+  "n_episodes": 200,
+  "first_layer_size": 24,
+  "second_layer_size": 30
+}
