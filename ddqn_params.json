@@ -1,6 +1,6 @@
 {
   "bins_per_coord": 5,
-  "buffer_size": 10000,
+  "buffer_size": 500000,
   "gamma": 0.95,
   "learning_rate": 0.0001,
   "epsilon_max": 1.0,
